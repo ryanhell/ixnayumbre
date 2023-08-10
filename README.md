@@ -1,4 +1,4 @@
-# Boilerplate and Starter for Next JS 13+, Tailwind CSS 3.3 and TypeScript
+# 3.5 Hombre Contendo NextJS Tailwind w/ App Router 
 
 <p align="center">
   <a href="https://creativedesignsguru.com/demo/Nextjs-Boilerplate/"><img height="300" src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Next js starter banner"></a>
